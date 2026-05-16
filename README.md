@@ -11,7 +11,6 @@ WeatherStation Pro est une station météo intelligente conçue avec un Raspberr
 Cliquez ici : https://mail.google.com/mail/?ui=2&ik=4bfdb55df9&attid=0.0.1&th=19e30e9ea3b0dc8c&view=fimg&fur=ip&rm=19e30e9ea3b0dc8c&sz=w1600-h1000&attbid=ANGjdJ_ku_v6brdA-bhIeveQ1FaLZY7QVoMgQj_DzOu8Ag9zHOBXU40PLWxP2oUUIXhPUBCVsS4zni7jExtE7VBfZstFFZWxkx2t3cAYOE0gzinEC8u3bDYpB2GgXvI&disp=emb&zw/downloaded
 
 ## Capture d'écran de la simulation 
-!{Simulation} 
 
 ## composants utilises 
 Raspberry Pi Pico  1   Cerveau principal du systeme
